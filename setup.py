@@ -23,7 +23,7 @@ setup(
     url='https://github.com/orcasgit/py-wsse/',
     packages=find_packages(),
     install_requires=[
-        'xmlsec>=0.6.0,<1',
+        'xmlsec>=1.3.3',
         'pyOpenSSL>=0.15.1',
         'lxml>=3.4.4',
     ],
